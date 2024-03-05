@@ -14,7 +14,9 @@ My name is **Meryem BELASSEL** ♥ I am 24 years old and I'm a 3rd year Computer
 </span>
 
 
+
 - 🔭 I’m currently working on school projects.
+- 🌱 I'am learning PHP.
 - 📫 How to reach me: on my LinkedIn or my E-mail.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love video games! 
