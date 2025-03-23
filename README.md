@@ -16,7 +16,7 @@ My name is **Meryem BELASSEL** ♥ I am 24 years old and I'm a 1st year in Maste
 
 
 - 🔭 I’m currently working on school projects.
-- 🌱 I'am learning PHP.
+- 🌱 I'am learning to use React and Angular.
 - 📫 How to reach me: on my LinkedIn or my E-mail.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love video games! 
