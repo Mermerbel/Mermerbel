@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is **Meryem BELASSEL** ♥ I am 24 years old and I'm a 1st year in Master degree of Computer Science Student at Burgundy University of Dijon 😁.
+My name is **Meryem BELASSEL** ♥ I am 25 years old and I'm a 2nd year in Master degree of Computer Science Student at Burgundy University of Dijon 😁.
 
 #### Tools:
 <span>
