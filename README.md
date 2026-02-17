@@ -10,7 +10,7 @@ My name is **Meryem BELASSEL** ♥ I am 25 years old and I'm a 2nd year in Maste
   <img src='https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png' width='50'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png' width='50'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/960px-IntelliJ_IDEA_Icon.svg.png' width='45'>
-  <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqm2nJdq12NbQVHLsh_urjAh6UesnmuI6xQ&s' width ='45'> 
+  <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqm2nJdq12NbQVHLsh_urjAh6UesnmuI6xQ&s' width ='50'> 
 </span>
 
 
