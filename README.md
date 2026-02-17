@@ -9,15 +9,14 @@ My name is **Meryem BELASSEL** ♥ I am 25 years old and I'm a 2nd year in Maste
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/langfr-120px-PhpStorm_Icon.svg.png' width='50'>
   <img src='https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png' width='50'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png' width='50'>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/578px-Qt_logo_2016.svg.png' width='50'>
-  <img src='https://www.codeblocks.org/images/logo160.png' width='50'>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/960px-IntelliJ_IDEA_Icon.svg.png' width='45'>
+  <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqm2nJdq12NbQVHLsh_urjAh6UesnmuI6xQ&s' width ='45'> 
 </span>
 
 
 
 - 🔭 I’m currently working on school projects.
-- 🌱 I'am learning to use React and Angular.
+- 🌱 I'am learning to use PostGIS and React.
 - 📫 How to reach me: on my LinkedIn or my E-mail.
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I love video games! 
 
